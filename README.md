@@ -63,6 +63,7 @@ Learning English is fun and can help you connect with many people around the wor
 1. **ESL-lab.com** - Listening and speaking practice.
 2. **ManyThings.org** - Various tools and resources for learning English.
 3. **British Council** - Comprehensive resources for learning English.
+4. **[Pronounce](https://pronounce.renlab.ai/)** - Pronunciation dictionary for tech and developer jargon (kubectl, nginx, JSON), with IPA, audio, and a quiz mode.
 
 ## Practice Resources
 
