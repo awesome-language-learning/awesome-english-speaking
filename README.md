@@ -57,6 +57,7 @@ Learning English is fun and can help you connect with many people around the wor
 1. **Duolingo** - Fun language learning app.
 2. **HelloTalk** - Practice with native speakers.
 3. **FluentPal** - AI role-playing and conversation practice.
+4. **[WordHub](https://wordhub.top)** - Vocabulary learning platform with etymology-based explanations, spaced repetition, and in-context reading.
 
 ### Websites
 
