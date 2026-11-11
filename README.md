@@ -77,6 +77,7 @@ Learning English is fun and can help you connect with many people around the wor
 1. **Speechling** - Get feedback on your pronunciation.
 2. **Google Translate** - Practice pronunciation with voice input.
 3. **FluentU** - Interactive subtitles and pronunciation practice.
+4. **[Ashore IELTS Speaking Mock Test](https://tryashore.com/ielts/speaking-mock-test)** - Answer IELTS Speaking questions to an AI examiner; you can try an answer without signing up. Bands are AI estimates, not official scores.
 
 ### Virtual Tutors
 
