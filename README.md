@@ -57,6 +57,7 @@ Learning English is fun and can help you connect with many people around the wor
 1. **Duolingo** - Fun language learning app.
 2. **HelloTalk** - Practice with native speakers.
 3. **FluentPal** - AI role-playing and conversation practice.
+4. **[WordSlick](https://wordslick.com/)** - AI speaking practice that explains your mistakes in your own language (Hindi, Portuguese, Spanish and more).
 
 ### Websites
 
